@@ -45,9 +45,10 @@ footer {
   text-align:center;
   margin-top:15px;
 }
-footer table {
+#footer table {
   background-color:#fbd489;
   margin-left:auto;
   margin-right:auto;
+  font-size: 12px;
   
 })

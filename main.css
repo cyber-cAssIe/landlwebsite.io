@@ -37,7 +37,7 @@
   font-size: 10px;
 }
 #social-footer {
-  background-color:#ffffff;
+  background-color: #fbd489;
   color:rgb(5, 0, 0);
   height:auto;
   font-size: 12px;
@@ -48,17 +48,13 @@
   margin-left: auto;
   margin-right: auto;
 }
-footer table {
-  background-color:#fbd489;
-  margin-left:auto;
-  margin-right:auto;
-  font-size: 12px;
   
-})
-#copyright {
+.footer {
   background-color: #ffffff;
-  font-size: 10px;
-
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
   width: auto;
-  margin: auto
+  margin-left: auto;
+  margin-right: auto;
+  align-content: center;
 }

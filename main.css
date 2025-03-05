@@ -42,6 +42,10 @@
   margin-left: auto;
   margin-right: auto;
 }
+#tafe {
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: centre;
+}
 #social-footer {
   background-color: #fbd489;
   color:rgb(5, 0, 0);
